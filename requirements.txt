@@ -1,0 +1,6 @@
+# 桌宠工坊及生成桌宠的 Python 依赖
+PySide6
+Pillow
+requests
+numpy
+pywin32

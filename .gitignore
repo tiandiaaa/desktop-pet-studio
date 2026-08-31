@@ -1,0 +1,22 @@
+# ============ Python ============
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.venv/
+
+# ============ 桌宠工坊运行时生成（不发布） ============
+# 用户生成的桌宠
+output/
+# 本机路径配置（每个人不同，各自在「环境设置」里填）
+configs/studio.json
+
+# ============ 个人数据 / 隐私 ============
+chat_memory.json
+
+# ============ IDE / 系统 ============
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
